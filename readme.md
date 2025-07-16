@@ -1,4 +1,4 @@
-# 🗣️ Speech to Text Transcription Tool
+  # 🗣️ Speech to Text Transcription Tool
 
 This project is a **Speech-to-Text Transcriber** built in Python using the `speech_recognition` library. It can:
 
@@ -8,15 +8,23 @@ This project is a **Speech-to-Text Transcriber** built in Python using the `spee
 
 ---
 🧠 Tech Stack
-Python 🐍
-speech_recognition for transcription
-pyaudio for microphone input
+Python 🐍,
+speech_recognition for transcription,
+pyaudio for microphone input,
 Google Web Speech API
+
+
+
 
 🙌 Author
 Vikas
-🎓 B.Tech CSE Student
+🎓 B.Tech CSE Student,
 💡 Passionate about Python, AI, and automation
+
+
+
+
+
 
 📬 Contact
 If you found this project helpful, feel free to connect or contribute!
