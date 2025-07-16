@@ -9,11 +9,8 @@ This project is a **Speech-to-Text Transcriber** built in Python using the `spee
 ---
 🧠 Tech Stack
 Python 🐍
-
 speech_recognition for transcription
-
 pyaudio for microphone input
-
 Google Web Speech API
 
 🙌 Author
@@ -23,6 +20,5 @@ Vikas
 
 📬 Contact
 If you found this project helpful, feel free to connect or contribute!
-
 🧠 “Speech is powerful — let's make it digital.”
 
